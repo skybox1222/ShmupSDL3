@@ -6,9 +6,8 @@ SDL3 bindings are hand-written via **P/Invoke**, no external wrapper.
 
 > Shoot, dodge, grab power-ups, take down the bosses. The more points you score, the tougher it gets.
 
-<!-- Add a screenshot or GIF here:
-![Screenshot](docs/screenshot.png)
--->
+You tube Video:
+https://youtu.be/kFPhv03JSmY?si=9MfxChbBa4LS8Wf7
 
 ---
 
